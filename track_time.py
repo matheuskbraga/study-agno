@@ -32,7 +32,7 @@ agent = Agent(
 )
 
 
-# 5. Resposta do agente
+# 5. Resposta do agente com a nova funcionalidade
 agent.print_response(
     """
     Use suas ferramentas para pesquisar a temperatura hoje em Santa Maria, Rio Grande do Sul, em Fahrenheit.
